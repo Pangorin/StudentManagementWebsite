@@ -1,2 +1,3 @@
 # StudentManagementWebsite
-Simple website for student management.
+Simple website for student management, using Python and Flask.
+
