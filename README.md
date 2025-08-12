@@ -25,8 +25,8 @@ It allows you to:
 - Run `app.py`, it will run both App 1 and App 2. After that it will provide a link to run on local.
 
 ## 📍 Result
-[Homepage](https://github.com/Pangorin/StudentManagementWebsite/blob/main/images/1.png)
+![Homepage](https://github.com/Pangorin/StudentManagementWebsite/blob/main/images/1.png)
 
-[Editpage](https://github.com/Pangorin/StudentManagementWebsite/blob/main/images/2.png)
+![Editpage](https://github.com/Pangorin/StudentManagementWebsite/blob/main/images/2.png)
 
 
