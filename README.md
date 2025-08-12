@@ -21,7 +21,10 @@ It allows you to:
 - Multi-device access on LAN
 
 ---
-## How to run the app
+## 🛠 How to run the app
 - Run `app.py`, it will run both App 1 and App 2. After that it will provide a link to run on local.
+
+## 📍 Result
+
 
 
